@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '32233'
     url: http://www.gutenberg.org/2009/agents/32233
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29484#A-Revolu--o-Portugueza--O-31-de-Janeiro--Porto-1891-
 gutenberg_bookshelf: PT História
 gutenberg_issued: '2009-07-22'
 gutenberg_type: Text
