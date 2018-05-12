@@ -1,0 +1,40 @@
+_repo: A-Revolu--o-Portugueza--O-31-de-Janeiro--Porto-1891-_29484
+_version: 0.1.0
+alternative_title: 'A Revolução Portuguesa: O 31 de Janeiro (Porto 1891)'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abreu, Francisco Jorge de
+    alias: Abreu, Jorge de
+    birthdate: 1878
+    deathdate: 1932
+    gutenberg_agent_id: '32233'
+    url: http://www.gutenberg.org/2009/agents/32233
+description: ''
+gutenberg_bookshelf: PT História
+gutenberg_issued: '2009-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29484'
+language: pt
+language_note:
+- This ebook uses a beginning of the 20th century spelling.
+- "Este livro eletrónico usa a ortografia da edição em papel do início do século XX.\r\
+  \nPara ajudar o Project Gutenberg a atualizar a ortografia desta obra, visite a\
+  \ página http://www.gutenberg.org/wiki/PT_Ortografia ."
+production_note: Produced by Pedro Saborano and the Online Distributed Proofreading
+  Team at http://www.pgdp.net
+publication_note: "Lisboa:\r\nEdição da Casa de Alfredo David\r\nEncadernador \r\n\
+  30-32, Rua Serpa Pinto, 34-36  \r\n1912"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: "Bibliotheca Historica\r\n(Popular e Illustrada)\r\nIII"
+subjects:
+- !lcsh 'Portugal -- Politics and government -- 1889-1908'
+- !lcsh 'Portugal -- History -- Revolution, 1891'
+- !lcc 'DP'
+title: 'A Revolução Portugueza: O 31 de Janeiro (Porto 1891)'
+url: http://www.gutenberg.org/ebooks/29484
